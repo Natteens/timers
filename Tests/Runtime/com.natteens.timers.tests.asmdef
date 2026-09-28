@@ -1,0 +1,15 @@
+{
+  "name": "com.natteens.timers.tests",
+  "rootNamespace": "Timers.Tests",
+  "references": [
+    "com.natteens.timers"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ]
+}

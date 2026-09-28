@@ -1,0 +1,15 @@
+{
+  "name": "com.natteens.timers",
+  "version": "0.1.0",
+  "displayName": "Timers",
+  "description": "Small PlayerLoop-driven timers for Unity.",
+  "unity": "6000.3",
+  "license": "MIT",
+  "author": {
+    "name": "Natteens",
+    "url": "https://github.com/Natteens"
+  },
+  "documentationUrl": "https://github.com/Natteens/timers",
+  "changelogUrl": "https://github.com/Natteens/timers/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Natteens/timers/blob/main/LICENSE.md"
+}
